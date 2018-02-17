@@ -1,1 +1,1 @@
-console.error("SOS")
+console.lol()
