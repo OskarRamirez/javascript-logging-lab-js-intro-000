@@ -1,1 +1,1 @@
-console.lol()
+console.log()
